@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(255, 160, 96);
+}
+.container{
+  background-color: white ;
+  display: flex;
+  width: 65%;
+  margin-top: 5%;
+  padding: 10px;
+  border-radius: 10px;
+}
+.card{
+  margin: 50px;
+  padding: 20px;
+  border: 2px dashed;
+  align-items: center;
+}
+.card button{
+    margin: 10px;
+    background-color: rgb(184, 184, 184);
+    text-align: center;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
